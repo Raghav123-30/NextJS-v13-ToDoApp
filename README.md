@@ -9,9 +9,8 @@ This is a simple non-persistent to-do app built using Next.js with Context API.I
 
 ## Features
 
-- Create and manage a to-do list without the need for a database.
+- Create and manage a to-do list.
 - Add, edit, and remove tasks easily.
-- Check off completed tasks for a sense of accomplishment.
 - Simple and intuitive user interface designed with Tailwind CSS.
 - Page-based routing for a smooth user experience.
 - Dynamic routes for task details.
