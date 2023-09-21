@@ -82,11 +82,10 @@ Follow these steps to get the app up and running on your local machine:
 
 ## Folder Structure
 
-- `pages/` - Contains the Next.js pages.
+- `app/` - Contains the Next.js pages.
 - `components/` - Reusable UI components.
 - `context/` - Context API for managing state.
-- `styles/` - Stylesheets and Tailwind CSS configuration.
-- `public/` - Static assets like images.
+
 
 ## Contributing
 
