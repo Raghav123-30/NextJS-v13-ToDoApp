@@ -23,13 +23,13 @@ Follow these steps to get the app up and running on your local machine:
 1. **Clone the Repository**:
 
    ```
-   git clone https://github.com/Raghav123-30/nextJSV13_to_do_crud_app
+   git clone https://github.com/Raghav123-30/NextJS-v13-ToDoApp
    ```
 
 2. **Navigate to the Project Directory**:
 
    ```
-   cd nextJSV13_to_do_crud_app
+   cd NextJS-v13-ToDoApp
    ```
 
 3. **Install Dependencies**:
