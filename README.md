@@ -23,13 +23,13 @@ Follow these steps to get the app up and running on your local machine:
 1. **Clone the Repository**:
 
    ```
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/Raghav123-30/nextJSV13_to_do_crud_app
    ```
 
 2. **Navigate to the Project Directory**:
 
    ```
-   cd todo-app
+   cd nextJSV13_to_do_crud_app
    ```
 
 3. **Install Dependencies**:
